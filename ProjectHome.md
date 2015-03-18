@@ -1,0 +1,1 @@
+to set Config class get from property
